@@ -1,0 +1,25 @@
+.home{
+    width: 350px;
+    height:550px;
+    overflow: hidden;
+    margin: 30 0 0 30px;
+    margin:auto;
+    padding: 30px;
+    background:white;
+    border-radius: 15px;
+    color:black;
+    
+  }
+  img{
+    padding-left: 40px;
+    padding-right: 1800px;
+  }
+  h1{
+    font-family: "Arial";
+    color: purple;
+  }
+  body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Cb7AV5xRdWo9Da2b-gISaIEQIq2-IAsWNg&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: 1550px 780px;
+  }
