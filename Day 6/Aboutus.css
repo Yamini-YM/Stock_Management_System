@@ -1,0 +1,24 @@
+.aboutus{
+    width: 500px;
+    height:750px;
+    overflow: hidden;
+    margin: 30 0 0 30px;
+    margin:auto;
+    padding: 30px;
+    background:white;
+    border-radius: 15px;
+    color:black;
+    
+  }
+  img{
+    padding-left: 90px;
+    padding-right: 1800px;
+  }
+  h1{
+    font-family: "Times New Roman";
+    color: purple;
+  }
+  h5{
+    font-size: 17px;
+    font-family: "Times New Roman";
+  }
