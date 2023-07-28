@@ -1,0 +1,5 @@
+com\example\demo\service\SignupService.class
+com\example\demo\StockappApplication.class
+com\example\demo\controller\SignupController.class
+com\example\demo\model\Signup.class
+com\example\demo\repository\SignupRepository.class
